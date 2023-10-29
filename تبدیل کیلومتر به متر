@@ -1,0 +1,9 @@
+a = float(input("KM/H: "))
+b = 1000
+c = a * b
+d = 100000
+e = a * d
+print("metr = ")
+print(c)
+print("santimetr = ")
+print(e)
